@@ -2,11 +2,23 @@
 
 A modern, responsive portfolio website showcasing my skills and projects as an AI & Data Science Engineer. Built with clean HTML, CSS, and JavaScript with a focus on performance and user experience.
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen)
+## 🌐 **[✨ VIEW LIVE DEMO ✨](https://nahid305.github.io/Nahid_basic_portfolio/)**
+
+[![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://nahid305.github.io/Nahid_basic_portfolio/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+
+---
+
+## 🎯 **Portfolio Highlights**
+
+🌟 **Modern Design** • 📱 **Mobile-First** • 🎨 **Interactive Animations** • 🌙 **Dark/Light Theme** • ⚡ **Fast Loading**
+
+**👉 [Experience the portfolio live →](https://nahid305.github.io/Nahid_basic_portfolio/)**
+
+---
 
 ## 🌟 Features
 
@@ -62,6 +74,11 @@ nahid-portfolio/
 ```
 
 ## 🚀 Quick Start
+
+### 🌐 **Live Demo**
+Visit the live portfolio: **[https://nahid305.github.io/Nahid_basic_portfolio/](https://nahid305.github.io/Nahid_basic_portfolio/)**
+
+### 💻 **Local Development**
 
 1. **Clone the repository**
    ```bash
