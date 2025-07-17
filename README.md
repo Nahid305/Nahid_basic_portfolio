@@ -65,8 +65,8 @@ nahid-portfolio/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Nahid305/nahid-portfolio.git
-   cd nahid-portfolio
+   git clone https://github.com/Nahid305/Nahid_basic_portfolio.git
+   cd Nahid_basic_portfolio
    ```
 
 2. **Open in browser**
@@ -201,7 +201,7 @@ To add a new project, update the projects section in `index.html`:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Nahid305/nahid-portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Nahid305/Nahid_basic_portfolio/issues).
 
 ### How to Contribute
 1. Fork the repository
@@ -217,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Nahid Ansari**
-- 🌐 Portfolio: [Your Portfolio URL]
+- 🌐 Portfolio: [https://nahid305.github.io/Nahid_basic_portfolio/](https://nahid305.github.io/Nahid_basic_portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/nahid-ansari-4b151a24b](https://www.linkedin.com/in/nahid-ansari-4b151a24b/)
 - 🐙 GitHub: [github.com/Nahid305](https://github.com/Nahid305)
 - 📧 Email: nahidansari509@gmail.com
